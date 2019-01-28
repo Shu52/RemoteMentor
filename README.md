@@ -27,8 +27,11 @@ The alumni will make the call when they are ready. Check volume and mic settings
 *Shu:*I will call you through slack. 
 Prepare to Direct Message me your Live share link
 ```
-Alumni will click on student's name and select call. Student will answer call and slack out Live share link (read only) in direct message. Alumni may want to slack out in channel that they are with a student and are unavailable. Student will click on "LiveShare" link on bottom left of VS Code. A popup will appear on bottom right. Student should select "Make Read-Only" button and paste link into direct message to alumni in slack. 
-After the session is over, student should stop the collaborating session in VS Code. The Alumni should make a slack message that they are now available. 
+- **Alumni** will click on student's name and select call.
+- **Student** will answer call and slack out Live share link (read only) in direct message.
+- **Alumni** may want to slack out in channel that they are with a student and are unavailable.
+- **Student** will click on "LiveShare" link on bottom left of VS Code. A popup will appear on bottom right. Student should select *"Make Read-Only"* button and paste link into direct message to alumni in slack. 
+- After the session is over, student should stop the collaborating session in VS Code. The Alumni should make a slack message that they are now available. 
 
 ### Other uses
-It is acceptable for Alumni and students to arrange a tutoring session outside normal common table hours though the ask alumni slack channel
+It is acceptable for Alumni and students to arrange a tutoring session outside normal common table hours via the "ask alumni" slack channel
