@@ -38,4 +38,4 @@ Prepare to Direct Message me your Live share link
 - After the session is over, student should stop the collaborating session in VS Code. The Alumni should make a slack message that they are now available. 
 
 ### Other uses
-It is acceptable for Alumni and students to arrange a tutoring session outside normal common table hours via the "ask alumni" slack channel
+It is acceptable for Alumni and students to arrange a tutoring session outside normal common table hours via the `ask alumni` slack channel
