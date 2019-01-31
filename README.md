@@ -18,16 +18,16 @@ For many students and Alumni, it can be a hardship to meet at the school for the
 
 *In Slack Channel*
 ```
-*Shu:*Hey guys! I am available to answer questions from 4-7 today.
+Shu: Hey guys! I am available to answer questions from 4-7 today.
 I can help with React,Js, C# and .NET"
 ```
 ```
-*Student:*I could use some help with React.
+Student: I could use some help with React.
 I am working on my frontend project and the app doesn't route the user correctly after login.
 ```
 The alumni will make the call when they are ready. Check volume and mic settings if needed.
 ```
-*Shu:*I will call you through slack. 
+Shu: I will call you through slack. 
 Prepare to Direct Message me your Live share link
 ```
 - **Alumni** will click on student's name and select call.
