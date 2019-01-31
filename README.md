@@ -8,6 +8,7 @@ For many students and Alumni, it can be a hardship to meet at the school for the
 - Alumni will check in on slack channel, ` ask_alumni` when they are available.
 - The student will contact the mentor through this channel to start a session.
 - Slack can handle a voice call and we suggest using the [live share extention](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) for VS code for screen share. Both parties will be required to have the live share extention installed.
+- Also ensure that both parties are signed in on their respective IDE's.
 - The student should use the *read only link* to avoid alumni take over.
 - The student will open the *Command Palette* with either `ctrl + shift + p` or `F1`.
 - Type `Live Share: Share Server` and copy & paste their url into the field. This will allow the alumni to see the DOM.
