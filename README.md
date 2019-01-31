@@ -1,12 +1,11 @@
 # Remote Mentor
 Policy for Remote Mentor for common tables
 
-## Intro (Rough Draft)
+## Intro
 For many students and Alumni, it can be a hardship to meet at the school for the Alumni common table. This policy is meant to remove the pain point of trying to connect Alumni-student teams remotely. 
 
 ### Getting started
-(I will probably set up a new slack channel or reappropriate the ask-alumni channel)
-- Alumni will check in in slack channel when they are available.
+- Alumni will check in in slack channel, ` ask_alumni` when they are available.
 - The student will contact the mentor through this channel to start an session. Slack can handle a voice call and we suggest using the [live share extention](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) for VS code for screen share.
 - The student should use the *read only link* to avoid alumni take over.
 - The student will open the *Command Palette* with either ctrl + shift + p or f1.
