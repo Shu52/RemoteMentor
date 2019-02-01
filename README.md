@@ -20,11 +20,11 @@ Alternately, teams can use Google Hangouts and screen share, but the resolution 
 *In Slack Channel*
 ```
 Alumni: Hey, everyone! I'm available to answer questions from 4-7 today.
-I can help with React,Js, C# and .NET."
+I can help with React, Js, C#, and .NET."
 ```
 ```
 Student: I could use some help with React please!
-I am working on my front-end project, and the app doesn't route the user after login correctly.
+I am working on my front-end project, and the app doesn't route the user correctly after login.
 ```
 The alumni will make the call when they are ready. Check volume and mic settings if needed.
 ```
